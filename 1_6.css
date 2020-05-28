@@ -1,0 +1,37 @@
+
+@charset "utf-8";
+
+* {
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+	width:100%;
+}
+
+.box1{
+	background-image: url(img/box1.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+.box2{
+	background-image: url(img/box2.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+.box3{
+	background-image: url(img/box3.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+.box4{
+	background-image: url(img/box4.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
